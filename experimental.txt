@@ -1,0 +1,7 @@
+./
+../
+.git/
+.gitignore
+experimental.txt
+group.txt
+log.log
